@@ -32,4 +32,4 @@ https://github.com/Amol-Bhole/module-federation-container
 
 if Products SubApp is run independently, output will be as below
 
-https://github.com/Amol-Bhole/module-federation-products/blob/main/src/assets/image.jpg?raw=true
+![alt text](https://github.com/Amol-Bhole/module-federation-products/blob/main/src/assets/products_output.png?raw=true)
